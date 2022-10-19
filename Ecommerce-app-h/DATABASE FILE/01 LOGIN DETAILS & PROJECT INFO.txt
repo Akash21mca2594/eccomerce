@@ -1,0 +1,13 @@
+**Database Name: ecommerceapp**
+
+**Developed by Akash**
+
+**Recommended PHP Version 5.6.3**
+
+
+
+**Admin Login Details**
+
+Email:    akkiadlakha7@gmail.com
+Password: password
+
